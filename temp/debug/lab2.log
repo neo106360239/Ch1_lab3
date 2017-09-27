@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  user_defined.c
+  main.c
+  正在產生程式碼...
+c:\c_code\ch1_lab2\lab2\lab2\user_defined.c(7): warning C4716: 'user_defined_print': 必須傳回值
+  lab2.vcxproj -> C:\c_code\Ch1_lab2\lab2\lab2\..\..\temp\debug\lab2.exe
+  lab2.vcxproj -> ..\..\temp\debug\lab2.pdb (Partial PDB)
